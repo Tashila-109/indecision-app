@@ -6,7 +6,8 @@
   "scripts": {
     "server": "live-server public/",
     "build": "webpack",
-    "dev-server": "webpack-dev-server"
+    "dev-server": "webpack-dev-server",
+    "start": "node server/server.js"
   },
   "author": "Tashila",
   "license": "ISC",
